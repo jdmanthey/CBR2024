@@ -12,7 +12,7 @@ The website for the lesson is found [here](https://software-carpentry.org/lesson
 "Programming with R." Click on the data site link to this lesson. This will take you to the learning page with 15 modules. 
 This is far too many to complete in class today, but we'll have class time next week Tuesday as well and then any other 
 sections that need to be completed should be done prior to February 6 when we start other activities. Please make sure to 
-work through slowly and comprehensively exercise #s: 1, 2, 3, 4, 6, 9, 10, 11, 12, 13, and 15. This should take a few hours 
+work through slowly and comprehensively exercise #s: 1, 2, 3, 4, 10, 11, 12, 13, and 15. This should take a few hours 
 to work through, and if you take your time with it, will make the exercises later in the class that much easier.
 
 &nbsp;
