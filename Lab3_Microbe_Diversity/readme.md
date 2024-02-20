@@ -1,4 +1,4 @@
-## Microbiome Community Abundance and Diversity 24 February 2022
+## Microbiome Community Abundance and Diversity 20 February 2024
 
 We will continue from the preliminary filtering of microbiome data we previously did in class. Here, you will
 be plotting and interpreting information about the communities' composition and alpha and beta diversity measures.
