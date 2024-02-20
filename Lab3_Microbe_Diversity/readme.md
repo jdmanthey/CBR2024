@@ -176,8 +176,8 @@ Let's plot some rarefactions curves to take one look at this factor:
 
 	par(mar=c(4.5,4.5,3,3)) # plotting margins
 	rarecurve_table <- otu_table(ps)
-  class(rarecurve_table) <- "matrix"
-  rarecurve(rarecurve_table, step=50, cex=0.5, label=F, xlim=c(0,10000))
+  	class(rarecurve_table) <- "matrix"
+  	rarecurve(rarecurve_table, step=50, cex=0.5, label=F, xlim=c(0,10000))
 
 
 If we had the full datasets, the picture may look more completely sampled. Anyways, there are ways of using the full dataset
