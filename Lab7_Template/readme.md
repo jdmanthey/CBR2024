@@ -155,7 +155,7 @@ Save progress:
 
     # add column and row names to the matrix
     colnames(track) <- c("input", "filtered", "denoised", "merged", "tabled", "nonchim")
-    rownames(track) <- paste0(sapply(strsplit(sample.names, "_"), "[[", 1), "_", sapply(strsplit(sample.names, "_"), "[[", 3))
+    rownames(track) <- paste0(sapply(strsplit(sample.names, "_"), "[[", 1))
 
     # show the matrix
     track
