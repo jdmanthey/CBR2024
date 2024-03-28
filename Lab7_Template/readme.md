@@ -213,7 +213,7 @@ add to or reduce vector size lengths as necessary given your sample size and the
     
     micro.df <- data.frame(Sample.ID=sample.id, trait_name1=trait1, trait_name2=trait2, trait_name3=trait3)
 
-    rownames(micro.df) <- samples.out
+    rownames(micro.df) <- sample.names
 
 
     # construct a phyloseq object
